@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug.setIndent(${1:indent…});
+]]></content>
+	<tabTrigger>logsetindent</tabTrigger>
+	<scope>source.js</scope>
+	<description>debug.setIndent(indent…)</description>
+</snippet>

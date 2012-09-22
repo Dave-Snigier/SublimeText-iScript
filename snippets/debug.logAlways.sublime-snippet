@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug.logAlways('${1:DEBUG}', '${2:a debug message...}\n'${3});
+]]></content>
+	<tabTrigger>logalways</tabTrigger>
+	<scope>source.js</scope>
+	<description>debug.logAlways('DEBUG', … )</description>
+</snippet>

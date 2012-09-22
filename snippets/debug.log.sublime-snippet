@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug.log('${1:DEBUG}', '${2:a debug message...}\n'${3});
+]]></content>
+	<tabTrigger>log</tabTrigger>
+	<scope>source.js</scope>
+	<description>debug.log('DEBUG', … )</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug.decrementIndent();
+]]></content>
+	<tabTrigger>logdecrindent</tabTrigger>
+	<scope>source.js</scope>
+	<description>debug.decrementIndent()</description>
+</snippet>

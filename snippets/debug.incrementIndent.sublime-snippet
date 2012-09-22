@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug.incrementIndent();
+]]></content>
+	<tabTrigger>logincrindent</tabTrigger>
+	<scope>source.js</scope>
+	<description>debug.incrementIndent()</description>
+</snippet>
